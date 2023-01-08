@@ -7,7 +7,7 @@ and a brief introduction of me.
 I am writing this hello world statement and introduction of myself to work with git hub. I am working on pushing and pulling through 
 VSCode.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/o3sBRSJYdwM)
 
 # Development Environment
 
